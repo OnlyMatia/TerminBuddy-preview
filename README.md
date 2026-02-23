@@ -1,4 +1,4 @@
-### PROJEKT: TerminBuddy
+# PROJEKT: TerminBuddy
 **Platforma za pametno upravljanje terminima i profesionalno povezivanje**
 
 ---
